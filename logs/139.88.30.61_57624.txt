@@ -1,2 +1,0 @@
-Sep 21 15:07:55 I: Serving client at 139.88.30.61:57624
-Sep 21 15:08:06 I: Starting 'a0' from /Users/jsgray/work/openmdao-plugins/aserver_langley/RemoteComponent-0.1.2014.09.21.15.06-py2.7.egg, directory None
